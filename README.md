@@ -1,6 +1,6 @@
 # TinyAssert
 
-rust style unit tests in elixir
+inline unit tests in elixir, adapted from the examples in [metaprogramming elixir](https://pragprog.com/titles/cmelixir/metaprogramming-elixir/)
 
 ## Installation
 
